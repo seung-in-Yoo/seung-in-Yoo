@@ -1,4 +1,4 @@
-### Hello Welcome! I'm SeungIn Yoo 👋
+### Hello Welcome! I'm Seungin Yoo 👋
 
 ### :books: Education 
 Inha University <br> 
