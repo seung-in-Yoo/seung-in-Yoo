@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&text=Seungin%20Yoo⛄️&color=87CEEB&height=300&section=header"/>
 
-### Hello, Welcome!🍀  I'm Seungin Yoo 
+<h2> Hello, Welcome!🍀 I'm Seungin Yoo </h2>
 
 ### :books: Education 
 Inha University <br> 
